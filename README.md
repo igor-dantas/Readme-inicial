@@ -2,8 +2,6 @@
 
 <h3 align="center">I'm a Back-end Developer</h3>
 
-<h3 align="center">I'm a back-end developer</h3>
-
 <h3 align="center">Connect with me:</h3>
 
 <h3 align="center">Languages and Tools:</h3>
