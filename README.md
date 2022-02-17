@@ -1,6 +1,6 @@
 <h3 align="center"> Hello, my name is Igor Dantas 👋</h3>
 
-<h3 align="center">I'm a Back-end Developer</h3>
+<h3 align="center">I'm a DevOps Developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 
